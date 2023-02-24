@@ -103,3 +103,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Some stuff that keeps generating that I don't know about
+.pnp.cjs
+.pnp.loader.mjs
